@@ -55,6 +55,7 @@ Atualmente, sou graduando em **Ciência da Computação** na USCS e atuo como **
 * **Modelagem de Dados** - Fundação Bradesco.
 * **Fundamentos de Hardware** - Cisco.
 * **Inglês:** Nível Intermediário.
+* **AWS Academy Graduate - Cloud Foundations:** AWS
 
 ---
 
