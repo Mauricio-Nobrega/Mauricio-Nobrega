@@ -27,9 +27,9 @@ Atualmente, sou graduando em **Ciência da Computação** na USCS e atuo como **
 
 ## 📂 Projetos em Destaque
 
-### 🍕 [CRUD de Pedidos de Pizza](https://github.com/Mauricio-Nobrega)
+### 🍕 [CRUD de Pizzaiolo](https://github.com/Mauricio-Nobrega)
 * **Tech Stack:** JavaScript + MySQL.
-* **O que faz:** Sistema web completo para gerenciamento de pedidos, com foco em persistência de dados e interface funcional.
+* **O que faz:** Sistema web para cadastro, atualização e exclusão de pizzaiolos.
 
 ### 🏋️ [Controle de Treinos e Alimentação](https://github.com/Mauricio-Nobrega)
 * **Tech Stack:** Node.js + Express + MongoDB.
